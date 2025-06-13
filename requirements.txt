@@ -1,0 +1,8 @@
+# File: requirements.txt
+Flask
+Flask-Cors
+gunicorn
+numpy
+Pillow
+tensorflow-cpu
+pandas
